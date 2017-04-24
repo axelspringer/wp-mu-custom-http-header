@@ -1,0 +1,20 @@
+{
+  "name": "muplugin/custom-http-header",
+  "type": "wordpress-muplugin",
+  "description": "custom-http-header",
+  "keywords": [
+    "wordpress",
+    "muplugin"
+  ],
+  "authors": [
+    {
+      "name": "Stefan Schwager",
+      "homepage": "http://www.axelspringer.de"
+    }
+  ],
+  "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/custom-http-header",
+  "license": "proprietary",
+  "extra": {
+    "installer-name": "custom-http-header"
+  }
+}
