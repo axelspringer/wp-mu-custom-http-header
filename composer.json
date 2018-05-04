@@ -1,5 +1,5 @@
 {
-  "name": "muplugin/custom-http-header",
+  "name": "axelspringer/wp-mu-custom-http-header",
   "type": "wordpress-muplugin",
   "description": "custom-http-header",
   "keywords": [
@@ -10,11 +10,15 @@
     {
       "name": "Stefan Schwager",
       "homepage": "http://www.axelspringer.de"
+    },
+    {
+      "name": "Mathias Witt",
+      "homepage": "http://www.axelspringer.de"
     }
   ],
-  "homepage": "https://as-stash.axelspringer.de/projects/WPMUP/repos/custom-http-header",
-  "license": "proprietary",
+  "homepage": "https://github.com/axelspringer/wp-mu-custom-http-header",
+  "license": "Apache-2.0",
   "extra": {
-    "installer-name": "custom-http-header"
+    "installer-name": "wp-mu-custom-http-header"
   }
 }
